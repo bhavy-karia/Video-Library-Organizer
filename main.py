@@ -48,10 +48,10 @@ def main():
     videos = load_data()
     while True:
         print("\nVideo Library Organizer | Choose An Option")
-        print("1. List All Youtube Videos")
-        print("2. Add A Youtube Video")
-        print("3. Update A Youtube Video Details")
-        print("4. Delete A Youtube Video")
+        print("1. List All Videos")
+        print("2. Add A Video")
+        print("3. Update A Video Details")
+        print("4. Delete A Video")
         print("5. Exit")
 
         choice = input("Enter Your Choice ")
